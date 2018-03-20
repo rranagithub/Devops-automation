@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="15" passed="15">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="145715" started-at="2017-12-23T09:25:00Z" finished-at="2017-12-23T09:27:26Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="145715" started-at="2017-12-23T09:25:00Z" finished-at="2017-12-23T09:27:26Z">
+      <class name="jpetStoreckg.baseTestClass">
+        <test-method status="PASS" signature="Tc1()[pri:0, instance:jpetStoreckg.baseTestClass@62043840]" name="Tc1" duration-ms="6410" started-at="2017-12-23T01:26:25Z" finished-at="2017-12-23T01:26:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tc1 -->
+      </class> <!-- jpetStoreckg.baseTestClass -->
+      <class name="jpetStoreckg.homePageNavigation">
+        <test-method status="PASS" signature="Tc13()[pri:0, instance:jpetStoreckg.homePageNavigation@5315b42e]" name="Tc13" duration-ms="9609" started-at="2017-12-23T01:26:31Z" finished-at="2017-12-23T01:26:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tc13 -->
+      </class> <!-- jpetStoreckg.homePageNavigation -->
+      <class name="jpetStoreckg.signOut">
+        <test-method status="PASS" signature="Tc16()[pri:0, instance:jpetStoreckg.signOut@246ae04d]" name="Tc16" duration-ms="13451" started-at="2017-12-23T01:26:12Z" finished-at="2017-12-23T01:26:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tc16 -->
+      </class> <!-- jpetStoreckg.signOut -->
+      <class name="jpetStoreckg.catalogueDetailPage">
+        <test-method status="PASS" signature="Tc3()[pri:0, instance:jpetStoreckg.catalogueDetailPage@735f7ae5]" name="Tc3" duration-ms="7154" started-at="2017-12-23T01:25:40Z" finished-at="2017-12-23T01:25:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tc3 -->
+      </class> <!-- jpetStoreckg.catalogueDetailPage -->
+      <class name="jpetStoreckg.Register">
+        <test-method status="PASS" signature="Tc15()[pri:0, instance:jpetStoreckg.Register@17550481]" name="Tc15" duration-ms="13323" started-at="2017-12-23T01:25:26Z" finished-at="2017-12-23T01:25:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tc15 -->
+      </class> <!-- jpetStoreckg.Register -->
+      <class name="jpetStoreckg.catalogueDetailPage5">
+        <test-method status="PASS" signature="Tc7()[pri:0, instance:jpetStoreckg.catalogueDetailPage5@783e6358]" name="Tc7" duration-ms="8181" started-at="2017-12-23T01:25:18Z" finished-at="2017-12-23T01:25:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tc7 -->
+      </class> <!-- jpetStoreckg.catalogueDetailPage5 -->
+      <class name="jpetStoreckg.catalogueDetailPage4">
+        <test-method status="PASS" signature="Tc6()[pri:0, instance:jpetStoreckg.catalogueDetailPage4@64616ca2]" name="Tc6" duration-ms="17993" started-at="2017-12-23T01:25:00Z" finished-at="2017-12-23T01:25:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tc6 -->
+      </class> <!-- jpetStoreckg.catalogueDetailPage4 -->
+      <class name="jpetStoreckg.catalogueDetailPage3">
+        <test-method status="PASS" signature="Tc5()[pri:0, instance:jpetStoreckg.catalogueDetailPage3@1324409e]" name="Tc5" duration-ms="10512" started-at="2017-12-23T01:25:53Z" finished-at="2017-12-23T01:26:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tc5 -->
+      </class> <!-- jpetStoreckg.catalogueDetailPage3 -->
+      <class name="jpetStoreckg.catalogueDetailPage2">
+        <test-method status="PASS" signature="Tc4()[pri:0, instance:jpetStoreckg.catalogueDetailPage2@180bc464]" name="Tc4" duration-ms="5993" started-at="2017-12-23T01:25:47Z" finished-at="2017-12-23T01:25:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tc4 -->
+      </class> <!-- jpetStoreckg.catalogueDetailPage2 -->
+      <class name="jpetStoreckg.cartPage">
+        <test-method status="PASS" signature="Tc2()[pri:0, instance:jpetStoreckg.cartPage@3f2a3a5]" name="Tc2" duration-ms="6639" started-at="2017-12-23T01:27:19Z" finished-at="2017-12-23T01:27:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tc2 -->
+      </class> <!-- jpetStoreckg.cartPage -->
+      <class name="jpetStoreckg.catalogueTest">
+        <test-method status="PASS" signature="Tc8()[pri:0, instance:jpetStoreckg.catalogueTest@2c6a3f77]" name="Tc8" duration-ms="8184" started-at="2017-12-23T01:26:03Z" finished-at="2017-12-23T01:26:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tc8 -->
+      </class> <!-- jpetStoreckg.catalogueTest -->
+      <class name="jpetStoreckg.catalogueTest5">
+        <test-method status="PASS" signature="Tc12()[pri:0, instance:jpetStoreckg.catalogueTest5@5d624da6]" name="Tc12" duration-ms="4845" started-at="2017-12-23T01:26:49Z" finished-at="2017-12-23T01:26:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tc12 -->
+      </class> <!-- jpetStoreckg.catalogueTest5 -->
+      <class name="jpetStoreckg.catalogueTest4">
+        <test-method status="PASS" signature="Tc11()[pri:0, instance:jpetStoreckg.catalogueTest4@2ef9b8bc]" name="Tc11" duration-ms="8250" started-at="2017-12-23T01:26:41Z" finished-at="2017-12-23T01:26:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tc11 -->
+      </class> <!-- jpetStoreckg.catalogueTest4 -->
+      <class name="jpetStoreckg.catalogueTest3">
+        <test-method status="PASS" signature="Tc10()[pri:0, instance:jpetStoreckg.catalogueTest3@60addb54]" name="Tc10" duration-ms="11242" started-at="2017-12-23T01:27:08Z" finished-at="2017-12-23T01:27:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tc10 -->
+      </class> <!-- jpetStoreckg.catalogueTest3 -->
+      <class name="jpetStoreckg.catalogueTest2">
+        <test-method status="PASS" signature="Tc9()[pri:0, instance:jpetStoreckg.catalogueTest2@1e67b872]" name="Tc9" duration-ms="13846" started-at="2017-12-23T01:26:54Z" finished-at="2017-12-23T01:27:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tc9 -->
+      </class> <!-- jpetStoreckg.catalogueTest2 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
