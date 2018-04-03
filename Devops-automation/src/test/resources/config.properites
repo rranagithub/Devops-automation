@@ -1,2 +1,2 @@
 browser=chrome
-url=http://10.1.23.187:7085/jpetstore
+url=http://jenkinselb-1963630365.ap-northeast-1.elb.amazonaws.com/JPetStore-1.0/
